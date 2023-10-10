@@ -20,6 +20,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Khushi Gautam
 - Kudakwashe Chris Chipangura
 - Olumide Micheal
+- Ogunleye Tolulope
 - Praise Agbabiaka
 - Raneh Egbe
 - Thibaud Colas
